@@ -1,0 +1,164 @@
+.rectangle-2-1 {
+    align-self: flex-start;
+    background-color: #ebe8e8;
+    height: 50px;
+    width: 100%;
+}
+
+.logo-1 {
+    width:120px;
+    height:50px;
+}
+
+.container .nav-link{
+    margin-left: 120px;
+    font-size: 13.3px;
+    font-weight:400;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container .nav-link:hover{
+    /* background-color: #cf018a;  */
+    text-decoration: underline 1.5px solid #cf018a;
+}
+
+.container input{
+    border-radius: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container button{
+    width:90px;
+    font-weight: bold;
+
+}
+
+.cart{
+    border-radius:5px;
+    width: 40px;
+    height:40px;
+    background-color: #cf018a;
+    color: rgb(255, 255, 255);
+    margin: 10px;
+    cursor: pointer;
+}
+
+.container .icon-search{
+    margin-left: -40px;
+    cursor:pointer;
+}
+
+.text-center{
+    display: flex;
+    justify-content: center;
+
+}
+
+.heading_1{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+
+}
+
+.heading_1 .broadband{
+   color: black;
+   margin-right: 10px;
+}
+
+.heading_1 .smart-home{
+    color: black;
+    margin-left: 10px;
+}
+
+.col-sm{
+    align-self: flex-start;
+    background-color: #dddddd;
+    height: 23px;
+    width: 100%;
+}
+   
+
+
+.card {
+    background-color: #d60909;
+    border-radius: 19px;
+    height: 475px;
+    position: absolute;
+    width: 319px;
+}
+.product_1 {
+    height: 262px;
+    left: 28px;
+    object-fit: cover;
+    position: absolute;
+    top: 27px;
+    width: 262px;
+}
+.fx-od5-outdoor-cpe {
+    left: 56px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 302px;
+    width: 266px;
+    color: black;
+}
+.learn-more {
+    color: #cf018a;
+    left: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 434px;
+    width: 434px;
+  }
+.rectangle-1 {
+    background-color: #cf018a;
+    height: 2px;
+    left: 18px;
+    top: 457px;
+    width:95px;
+    border-radius: 7px;
+    position: absolute;
+  }
+
+.rectangle-2{
+    background-color: #cf018a;
+    border-radius: 9px;
+    height: 46px;
+    left: 163px;
+    position: absolute;
+    top: 419px;
+    width: 138px;
+  }
+.buy-now {
+    left: 188px;
+    /* letter-spacing: 0; */
+    line-height: normal;
+    position: absolute;
+    top: 430px;
+    width: 100px;
+    color: #f7f7f7;
+  }
+
+  .group_product{
+    display: flex;
+    justify-content: space-around;
+  }
+
+
+  ::marker {
+    color: #cf018a;
+    font-size:20px;
+}
+
+.logo-2 {
+    width:150px;
+    height:60px;
+}
+p{
+    font-size:16px;
+    font-weight:400;
+}

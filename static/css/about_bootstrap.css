@@ -1,0 +1,81 @@
+.title {
+color: #cf018a;
+margin-top:100px;
+font-size:35px;
+font-weight: bold;
+}
+
+p{
+    font-size:16px;
+    font-weight:400;
+}
+
+li{
+    font-size:15px;
+    letter-spacing:0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+::marker {
+    color: #cf018a;
+    font-size:20px;
+}
+
+.logo-2 {
+    width:150px;
+    height:60px;
+}
+
+.logo-1{
+    width: 120px;
+    height:50px;
+}
+
+.container .nav-link{
+    margin-left: 120px;
+    font-size: 13.3px;
+    font-weight:400;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container .nav-link:hover{
+    /* background-color: #cf018a;  */
+    text-decoration: underline 1.5px solid #cf018a;
+}
+
+.container input{
+    border-radius: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container button{
+    width:90px;
+    font-weight: bold;
+
+}
+
+.cart{
+    border-radius:5px;
+    width: 40px;
+    height:40px;
+    background-color: #cf018a;
+    color: rgb(255, 255, 255);
+    margin: 10px;
+    cursor: pointer;
+}
+
+.container .icon-search{
+    margin-left: -40px;
+    cursor:pointer;
+}
+
+h3{
+    font-size:20px;
+}
+.rectangle-2-1 {
+    align-self: flex-start;
+    background-color: #ebe8e8;
+    height: 50px;
+    width: 100%;
+}

@@ -1,0 +1,13 @@
+/* @media only screen and (min-width: 481px) and (max-width: 768px) {
+
+} */
+/* Styles for laptops and desktops */
+@media only screen and (min-width: 1024px) {
+  /* Add your CSS styles for larger screens here */
+}
+
+/* Styles for tablets and smaller devices */
+@media only screen and (max-width: 1023px) {
+  /* Add your CSS styles for smaller screens here */
+}
+ 
